@@ -40,6 +40,6 @@
   ### Video of App
   
 
-![goodReadMeGenerator (3)](https://user-images.githubusercontent.com/41960292/118578290-e2349000-b759-11eb-99f4-0bd372452ec3.gif)
-
+![goodReadMeGenerator (3)]
+https://drive.google.com/file/d/1yI5AIqxz1kJqHBMrEKgrsP0nrtYR4Bh4/view
   
